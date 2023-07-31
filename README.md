@@ -12,7 +12,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-[![Java Badge](https://img.shields.io/badge/Java-Your_Version_Here-007396?style=flat&logo=java)](https://www.oracle.com/java/)
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java)](https://www.oracle.com/java/)
 
 🧠 ***Skill Stack***
 
