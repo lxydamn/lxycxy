@@ -4,7 +4,7 @@
 
 [***Blog***](https://lxycxy.github.io)
 
-💪 Programming Language
+💪 ***Programming Language***
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -14,7 +14,7 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 [![Java Badge](https://img.shields.io/badge/Java-Your_Version_Here-007396?style=flat&logo=java)](https://www.oracle.com/java/)
 
-🧠 Skill Stack
+🧠 ***Skill Stack***
 
 [![Docker](https://img.shields.io/badge/Docker-Latest-blue?logo=docker)](https://www.docker.com/)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
@@ -26,7 +26,7 @@
 
 
 
-💻  DevOps
+💻  ***DevOps***
 
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
