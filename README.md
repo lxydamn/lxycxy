@@ -23,8 +23,8 @@
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-[![MyBatis](https://img.shields.io/badge/MyBatis-3.5.7-orange?logo=mybatis)](https://mybatis.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.3-green?logo=springboot)](https://spring.io/projects/spring-boot)
+[![MyBatis](https://img.shields.io/badge/MyBatis--orange?logo=mybatis)](https://mybatis.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot--green?logo=springboot)](https://spring.io/projects/spring-boot)
 
 
 
