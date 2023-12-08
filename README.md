@@ -32,8 +32,6 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lxycxy/lxycxy/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="[https://github.com/lxycxy/lxycxy/blob/output/github-contribution-grid-snake.svg" />
