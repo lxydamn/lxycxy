@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1AF7C1&center=true&multiline=true&width=1000&height=80&lines=welcome+to+lxy's+homepage)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&random=false&width=1000&height=80&lines=It+is+not+just+a+porter+of+code)](https://git.io/typing-svg)
 
 ### [***Lxy's Blog***](https://lxycxy.github.io)
 
