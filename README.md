@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&random=false&width=1000&height=80&lines=It+is+not+just+a+porter+of+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&random=false&width=1000&height=80&lines=It+is+not+just+a+coder)](https://git.io/typing-svg)
 
 ### [***Lxy's Blog***](https://lxycxy.github.io)
 
